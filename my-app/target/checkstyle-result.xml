@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/matteo/Scrivania/tmp/lab3/my-app/src/main/java/com/mycompany/app/App.java">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;Tecnologie open-source&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+</checkstyle>
